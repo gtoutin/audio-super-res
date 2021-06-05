@@ -20,7 +20,7 @@ The model is implemented in Python 3.7.10 and uses several additional libraries.
 * `scipy==1.6.0`
 * `librosa==0.8.1`
 * `h5py==2.10.0`
-* `matplotlib==3.3.4`
+* `matplotlib==3.4.1`
 
 A full list of the packages on our enviornment is in `requirements.txt`
 
